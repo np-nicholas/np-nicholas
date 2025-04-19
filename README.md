@@ -16,7 +16,7 @@ Currently developing **Wealtrix** 💰 – a personal finance app that helps peo
 
 ## 🚀 Featured Project
 
-### 💸 [Wealtrix](https://github.com/np-nicholas/wealtrix)
+### 💸 Wealtrix
 > Personal finance tracker built with Flutter + Supabase.  
 > Support for multi-account, budgeting, subscriptions, and rich insights.
 
