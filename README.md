@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nattapong Pallawal
 
-I'm a **Senior Flutter Developer** with a passion for building polished cross-platform apps and smart digital products.  
+I'm a **Flutter Developer** with a passion for building polished cross-platform apps and smart digital products.  
 Currently developing **Wealtrix** 💰 – a personal finance app that helps people take control of their money.
 
 ---
